@@ -9,3 +9,5 @@ Decrypted/*
 !Decrypted/ALWAYS_DELETE.md
 
 Credentials/aes_key.txt
+
+.DS_Store
