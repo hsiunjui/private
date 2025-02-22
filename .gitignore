@@ -1,0 +1,7 @@
+# certification
+public.pem
+private.pem
+
+# files
+Decrypted/
+Credentials/aes_key.txt
